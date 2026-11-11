@@ -36,7 +36,7 @@
   "author": {
     "name": "Material Extensions",
     "email": "material-icons-extensions@googlegroups.com",
-    "url": "https://github.com/material-extensions"
+    "url": "https://github.com/meieluka"
   },
   "funding": "https://github.com/sponsors/material-extensions",
   "sponsor": {
@@ -45,13 +45,13 @@
   "engines": {
     "vscode": "^1.55.0"
   },
-  "homepage": "https://github.com/material-extensions/vscode-material-icon-theme/blob/main/README.md",
+  "homepage": "https://github.com/meieluka/vscode-material-icon-theme/blob/main/README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/material-extensions/vscode-material-icon-theme.git"
+    "url": "git+https://github.com/meieluka/vscode-material-icon-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/material-extensions/vscode-material-icon-theme/issues"
+    "url": "https://github.com/meieluka/vscode-material-icon-theme/issues"
   },
   "icon": "logo.png",
   "galleryBanner": {
